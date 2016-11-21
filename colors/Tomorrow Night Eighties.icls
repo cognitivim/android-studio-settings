@@ -125,11 +125,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CLASS_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="cccccc" />
-      </value>
-    </option>
     <option name="CLASS_REFERENCE">
       <value>
         <option name="FOREGROUND" value="ffcc66" />
@@ -585,6 +580,11 @@
       <value>
         <option name="FOREGROUND" value="f99157" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="0" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
@@ -1269,7 +1269,7 @@
     </option>
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="cccccc" />
+        <option name="FOREGROUND" value="0" />
       </value>
     </option>
     <option name="MACRONAME">
